@@ -173,4 +173,4 @@ if (count($violations) > 0) {
 
 ---
 
-📌 Ce document est **prêt à être utilisé** pour ton oral et tes slides ! Il est structuré, clair et adapté.
+Document réalisé par M MELONI
