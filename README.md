@@ -423,4 +423,4 @@ Puis lancez :
 npm run dev
 ```
 
-Document réalisé par M MELONI
+Document réalisé par N DEZZAZ et M MELONI
